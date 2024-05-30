@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Users/jgcal/REACT/curso-react-intro/build/static/css/main.da8481f3.css",
+    "main.js": "/Users/jgcal/REACT/curso-react-intro/build/static/js/main.b08d1ec2.js",
+    "static/media/loader.gif": "/Users/jgcal/REACT/curso-react-intro/build/static/media/loader.476a5a18289f90981160.gif",
+    "index.html": "/Users/jgcal/REACT/curso-react-intro/build/index.html",
+    "main.da8481f3.css.map": "/Users/jgcal/REACT/curso-react-intro/build/static/css/main.da8481f3.css.map",
+    "main.b08d1ec2.js.map": "/Users/jgcal/REACT/curso-react-intro/build/static/js/main.b08d1ec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da8481f3.css",
+    "static/js/main.b08d1ec2.js"
+  ]
+}
